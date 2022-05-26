@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot]([https://res.cloudinary.com/djjavdrak/image/upload/v1653522072/portofolio/Screenshot_from_2022-05-26_06-36-57_ytopl6.png](https://res.cloudinary.com/djjavdrak/image/upload/v1652006534/portofolio/Screenshot_from_2022-05-08_14-40-20_myhwwy.png))
+![screenshot](https://res.cloudinary.com/djjavdrak/image/upload/v1652006534/portofolio/Screenshot_from_2022-05-08_14-40-20_myhwwy.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
